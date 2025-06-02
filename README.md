@@ -1,3 +1,5 @@
+# 🌲 LinkTree Clone
+
 Projeto de uma página estilo LinkTree, feita com **React**, **TypeScript** e integrada ao **Firebase** para banco de dados e autenticação. Utilizei **React Router DOM** para as rotas e **Tailwind CSS** para a estilização.
 
 ## 🚀 Tecnologias
