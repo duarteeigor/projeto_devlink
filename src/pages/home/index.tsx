@@ -82,7 +82,7 @@ export function Home() {
                     key={data.id}
                     className="p-2 w-full rounded-sm font-semibold cursor-pointer hover:opacity-70"
                     style={{ backgroundColor: data.background, color: data.cor }}>
-                    {data.texto}
+                    <a href={data.url} target="_blank"><p>{data.texto}</p></a>
                 </button>
             ))}
 
